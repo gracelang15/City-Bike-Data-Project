@@ -1,2 +1,2 @@
-# City-Bike-Data-Probject
+# City-Bike-Data-Project
 ORIE 5530 Project
